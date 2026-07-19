@@ -111,12 +111,11 @@ export default function Hero() {
             >
               <motion.a
                 href="/Resume.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
+                download="Ankit_Jha_Resume.pdf"
                 aria-label="Download Resume"
                 whileHover={{ y: -3, boxShadow: '9px 9px 0 0 #000' }}
                 whileTap={{ scale: 0.97 }}
-className="group inline-flex items-center justify-center gap-2 sm:gap-3 w-[85%] max-w-[280px] max-[380px]:max-w-[240px] h-[48px] max-[380px]:h-[44px] px-5 max-[380px]:px-4 py-2.5 bg-[#D97706] text-black font-semibold sm:font-black uppercase tracking-[-0.02em] text-[15px] max-[380px]:text-[14px] sm:text-sm border-[3px] sm:border-4 border-black shadow-[6px_6px_0_0_#000] max-[380px]:shadow-[4px_4px_0_0_#000] transition-all duration-200 rounded-none cursor-pointer sm:w-auto sm:max-w-none min-[600px]:max-w-none min-[600px]:w-auto min-[600px]:flex-1 lg:flex-none sm:h-auto sm:px-10 sm:py-4"
+                className="group inline-flex items-center justify-center gap-2 sm:gap-3 w-[85%] max-w-[280px] max-[380px]:max-w-[240px] h-[48px] max-[380px]:h-[44px] px-5 max-[380px]:px-4 py-2.5 bg-[#D97706] text-black font-semibold sm:font-black uppercase tracking-[-0.02em] text-[15px] max-[380px]:text-[14px] sm:text-sm border-[3px] sm:border-4 border-black shadow-[6px_6px_0_0_#000] max-[380px]:shadow-[4px_4px_0_0_#000] transition-all duration-200 rounded-none cursor-pointer sm:w-auto sm:max-w-none min-[600px]:max-w-none min-[600px]:w-auto min-[600px]:flex-1 lg:flex-none sm:h-auto sm:px-10 sm:py-4"
                 >
                   DOWNLOAD RESUME
                 </motion.a>
