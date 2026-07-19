@@ -110,7 +110,7 @@ export default function Hero() {
               className="flex flex-col min-[600px]:flex-row gap-3 min-[600px]:gap-4 md:gap-6 items-center min-[600px]:justify-center lg:justify-start"
             >
               <motion.a
-                href="/resume.pdf"
+                href="/Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Download Resume"
