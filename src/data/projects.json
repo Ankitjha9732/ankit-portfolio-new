@@ -19,7 +19,7 @@
       "image": "/images/project2.jpg",
       "tags": ["React", "Node.js", "MongoDB"],
       "link": "https://github.com",
-      "liveLink": "https://project2.vercel.app",
+      "liveLink": "https://reel-proj.vercel.app/",
       "featured": true
     },
     {

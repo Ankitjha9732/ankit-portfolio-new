@@ -103,7 +103,7 @@ const projectsData = [
     tech: ['HTML5', 'CSS3', 'JavaScript'],
     features: ['Vertical Video Scrolling', 'Interactive Like & Comment', 'Share & Follow Actions', 'Mobile-first UI', 'Smooth Animations', 'Responsive Design'],
     github: 'https://github.com',
-    live: '#',
+    live: 'https://reel-proj.vercel.app/',
   },
   {
     img: 'https://picsum.photos/seed/mernapp/800/600',
