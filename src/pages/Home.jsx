@@ -93,7 +93,7 @@ const projectsData = [
     tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Socket.IO', 'JWT', 'Tailwind CSS'],
     features: ['QR-based Restaurant Ordering', 'Secure Authentication', 'Real-time Order Updates', 'Admin Dashboard', 'Responsive Design', 'REST API'],
     github: 'https://github.com',
-    live: 'https://restroorder-2.onrender.com/',
+    live: '#',
   },
   {
     img: '/PROJECTS%20IMG/project%202%20img.png',
